@@ -18,10 +18,10 @@
 
     <!-- Open Graph / Facebook -->
     <meta property="og:type" content="website">
-    <meta property="og:url" content="https://romit-digital.com/layanan">
+    <meta property="og:url" content="https://romitweb.com/layanan">
     <meta property="og:title" content="Layanan Lengkap - RomIT | Pengembang Aplikasi & Website">
     <meta property="og:description" content="Solusi digital komprehensif untuk bisnis Anda. Web Development, Mobile Apps, UI/UX Design, System Integration, dan Digital Marketing.">
-    <meta property="og:image" content="{{ asset('img/romit-services.png') }}">
+    <meta property="og:image" content="{{ asset('img/image.png') }}">
     <meta property="og:image:width" content="1200">
     <meta property="og:image:height" content="630">
     <meta property="og:locale" content="id_ID">
@@ -33,10 +33,10 @@
     <meta name="twitter:creator" content="@romit_digital">
     <meta name="twitter:title" content="Layanan Lengkap - RomIT Digital Solutions">
     <meta name="twitter:description" content="Transformasi digital bisnis Anda dengan layanan IT terpercaya. Konsultasi gratis via WhatsApp.">
-    <meta name="twitter:image" content="{{ asset('img/romit-services.png') }}">
+    <meta name="twitter:image" content="{{ asset('img/image.png') }}">
 
     <!-- Canonical URL -->
-    <link rel="canonical" href="https://romit-digital.com/layanan">
+    <link rel="canonical" href="https://romitweb.com/layanan">
 
     <!-- Additional Meta Tags -->
     <meta name="geo.region" content="ID">

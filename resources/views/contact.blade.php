@@ -14,7 +14,7 @@
     <meta property="og:type" content="website">
     <meta property="og:title" content="Kontak Kami - RomIT | Pengembang Aplikasi & Website">
     <meta property="og:description" content="Konsultasikan proyek digital Anda dengan tim RomIT. Respons cepat, solusi teknologi tepat guna untuk bisnis Anda.">
-    <meta property="og:image" content="img/romit-contact.png">
+    <meta property="og:image" content="img/image.png">
 
     <!-- Twitter -->
     <meta name="twitter:card" content="summary_large_image">
@@ -22,7 +22,7 @@
     <meta name="twitter:description" content="Hubungi tim developer profesional untuk konsultasi gratis pengembangan aplikasi dan website.">
 
     <!-- Canonical URL -->
-    <link rel="canonical" href="https://romit-digital.com/kontak">
+    <link rel="canonical" href="https://romitweb.com/kontak">
 
     <!-- Additional Meta Tags -->
     <meta name="format-detection" content="telephone=yes">
@@ -239,8 +239,8 @@
                     </div>
                     <h3 class="font-bold text-primary text-lg mb-2">Email</h3>
                     <p class="text-sm text-gray-600 mb-4">Kirim detail proyek via email</p>
-                    <p class="font-bold text-gray-800 mb-4 text-sm">hello@romit-digital.com</p>
-                    <a href="mailto:hello@romit-digital.com" class="block w-full bg-accent text-white text-center py-3 rounded-lg font-semibold hover:bg-accent-dark transition">
+                    <p class="font-bold text-gray-800 mb-4 text-sm">hello@romitweb.com</p>
+                    <a href="mailto:hello@romitweb.com" class="block w-full bg-accent text-white text-center py-3 rounded-lg font-semibold hover:bg-accent-dark transition">
                         <i class="fas fa-envelope mr-2"></i>Kirim Email
                     </a>
                 </div>
@@ -465,7 +465,7 @@ Grogol petamburan, Kelurahan Digital, Kecamatan Cyber, Kota Jakarta, Indonesia</
                                 <i class="fas fa-envelope text-accent-light mt-1"></i>
                                 <div>
                                     <p class="font-semibold mb-1">Email</p>
-                                    <p class="text-sm opacity-90 break-words">hello@romit-digital.com</p>
+                                    <p class="text-sm opacity-90 break-words">hello@romitweb.com</p>
                                 </div>
                             </div>
 
@@ -473,7 +473,7 @@ Grogol petamburan, Kelurahan Digital, Kecamatan Cyber, Kota Jakarta, Indonesia</
                                 <i class="fas fa-globe text-accent-light mt-1"></i>
                                 <div>
                                     <p class="font-semibold mb-1">Website</p>
-                                    <p class="text-sm opacity-90">www.romit-digital.com</p>
+                                    <p class="text-sm opacity-90">www.romitweb.com</p>
                                 </div>
                             </div>
                         </div>
