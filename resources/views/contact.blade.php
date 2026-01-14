@@ -157,7 +157,7 @@
                     </div>
                     <div>
                         <span class="text-lg font-bold text-primary">RomIT</span>
-                        <div class="text-xs text-gray-600 font-semibold">Pengembang Aplikasi dan Website di Indonesia</div>
+                        <div class="text-xs text-gray-60">Pengembang Aplikasi dan Website di Indonesia</div>
                     </div>
                 </div>
 
@@ -169,7 +169,7 @@
                         Kontak
                         <span class="absolute bottom-0 left-0 w-full h-0.5 bg-accent"></span>
                     </a>
-                    <a href="https://wa.me/6281268123180" target="_blank" rel="noopener noreferrer" class="gradient-accent text-white text-sm font-bold px-5 py-2 rounded-lg shadow-lg hover:shadow-xl transition-all duration-300">
+                    <a href="https://wa.me/62895614008787" target="_blank" rel="noopener noreferrer" class="gradient-accent text-white text-sm font-bold px-5 py-2 rounded-lg shadow-lg hover:shadow-xl transition-all duration-300">
                         <i class="fab fa-whatsapp mr-1.5"></i>
                         Konsultasi Gratis
                     </a>
@@ -185,7 +185,7 @@
                 <a href="layanan-unggulan" class="block py-2 text-sm text-gray-700 hover:bg-accent/10 px-3 rounded-lg transition">Layanan</a>
                 <a href="tentang-kami" class="block py-2 text-sm text-gray-700 hover:bg-accent/10 px-3 rounded-lg transition">Tentang</a>
                 <a href="hubungi-kami" class="block py-2 text-sm text-primary font-semibold bg-accent/10 px-3 rounded-lg">Kontak</a>
-                <a href="https://wa.me/6281268123180" target="_blank" rel="noopener noreferrer" class="block w-full gradient-accent text-sm text-white font-bold py-2 px-3 rounded-lg mt-2 text-center">
+                <a href="https://wa.me/62895614008787" target="_blank" rel="noopener noreferrer" class="block w-full gradient-accent text-sm text-white font-bold py-2 px-3 rounded-lg mt-2 text-center">
                     <i class="fab fa-whatsapp mr-1.5"></i>
                     Konsultasi Gratis
                 </a>
@@ -226,8 +226,8 @@
                     </div>
                     <h3 class="font-bold text-primary text-lg mb-2">WhatsApp</h3>
                     <p class="text-sm text-gray-600 mb-4">Konsultasi cepat via WhatsApp</p>
-                    <p class="font-bold text-gray-800 mb-4">+62 812-6812-3180</p>
-                    <a href="https://wa.me/6281268123180" target="_blank" rel="noopener noreferrer" class="block w-full bg-green-500 text-white text-center py-3 rounded-lg font-semibold hover:bg-green-600 transition">
+                    <p class="font-bold text-gray-800 mb-4">+62 895-6140-08787</p>
+                    <a href="https://wa.me/62895614008787" target="_blank" rel="noopener noreferrer" class="block w-full bg-green-500 text-white text-center py-3 rounded-lg font-semibold hover:bg-green-600 transition">
                         <i class="fab fa-whatsapp mr-2"></i>Chat Sekarang
                     </a>
                 </div>
@@ -457,7 +457,7 @@ Grogol petamburan, Kelurahan Digital, Kecamatan Cyber, Kota Jakarta, Indonesia</
                                 <i class="fas fa-phone-alt text-accent-light mt-1"></i>
                                 <div>
                                     <p class="font-semibold mb-1">Telepon</p>
-                                    <p class="text-sm opacity-90">+62 812-6812-3180</p>
+                                    <p class="text-sm opacity-90">+62 895-6140-08787</p>
                                 </div>
                             </div>
 
@@ -507,7 +507,7 @@ Grogol petamburan, Kelurahan Digital, Kecamatan Cyber, Kota Jakarta, Indonesia</
                     <div class="bg-gradient-to-br from-accent/5 to-accent/10 p-6 rounded-3xl border border-accent/20">
                         <h4 class="font-bold text-primary text-lg mb-4">Ikuti Kami</h4>
                         <div class="flex flex-wrap gap-3">
-                            <a href="https://wa.me/6281268123180" target="_blank" rel="noopener noreferrer" class="flex-1 min-w-[100px] bg-green-500 text-white py-3 px-4 rounded-xl hover:bg-green-600 transition text-center font-semibold">
+                            <a href="https://wa.me/62895614008787" target="_blank" rel="noopener noreferrer" class="flex-1 min-w-[100px] bg-green-500 text-white py-3 px-4 rounded-xl hover:bg-green-600 transition text-center font-semibold">
                                 <i class="fab fa-whatsapp text-xl"></i>
                                 <div class="text-xs mt-1">WhatsApp</div>
                             </a>
@@ -528,7 +528,7 @@ Grogol petamburan, Kelurahan Digital, Kecamatan Cyber, Kota Jakarta, Indonesia</
                             <i class="fas fa-headset text-5xl mb-3"></i>
                             <h4 class="font-bold text-lg mb-2">Butuh Bantuan Teknis?</h4>
                             <p class="text-sm opacity-90 mb-4">Tim support kami siap membantu</p>
-                            <a href="https://wa.me/6281268123180" target="_blank" rel="noopener noreferrer" class="block bg-white text-accent font-bold py-3 px-6 rounded-xl hover:bg-gray-100 transition">
+                            <a href="https://wa.me/62895614008787" target="_blank" rel="noopener noreferrer" class="block bg-white text-accent font-bold py-3 px-6 rounded-xl hover:bg-gray-100 transition">
                                 Chat Technical Support
                             </a>
                         </div>

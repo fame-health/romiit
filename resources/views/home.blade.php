@@ -170,7 +170,7 @@
                     </div>
                     <div>
                         <span class="text-xl font-bold text-primary">RomIT</span>
-                        <div class="text-xs text-gray-600 -mt-1 font-semibold">Pengembang Aplikasi dan Website di Indonesia</div>
+                        <div class="text-xs text-gray-600 -mt-1 ">Pengembang Aplikasi dan Website di Indonesia</div>
                     </div>
                 </div>
 
@@ -214,86 +214,91 @@
             </div>
         </div>
     </nav>
+<section id="home" class="pt-16 gradient-dark text-white relative overflow-hidden w-full">
+    <div class="absolute inset-0 opacity-10 pointer-events-none">
+        <div class="absolute top-10 -left-10 w-48 h-48 bg-accent rounded-full blur-3xl"></div>
+        <div class="absolute bottom-10 -right-10 w-64 h-64 bg-accent rounded-full blur-3xl"></div>
+    </div>
 
-    <!-- Hero Section -->
-    <section id="home" class="pt-16 gradient-dark text-white relative overflow-hidden">
-        <div class="absolute inset-0 opacity-10">
-            <div class="absolute top-10 left-10 w-48 h-48 bg-accent rounded-full blur-3xl"></div>
-            <div class="absolute bottom-10 right-10 w-64 h-64 bg-accent rounded-full blur-3xl"></div>
-        </div>
+    <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12 lg:py-16 relative z-10">
+        <div class="grid lg:grid-cols-2 gap-10 items-center">
 
-        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-16 relative z-10">
-            <div class="grid lg:grid-cols-2 gap-10 items-center">
-                <div class="space-y-5">
-                    <div class="inline-block">
-                        <span class="bg-accent/20 text-accent px-3 py-1.5 rounded-full text-xs font-semibold backdrop-blur-sm border border-accent/30">
-                            🚀 Transformasi Digital Bisnis Anda
-                        </span>
+            <div class="space-y-6">
+                <div class="inline-block">
+                    <span class="bg-accent/20 text-accent px-3 py-1.5 rounded-full text-[10px] sm:text-xs font-semibold backdrop-blur-sm border border-accent/30">
+                        🚀 Transformasi Digital Bisnis Anda
+                    </span>
+                </div>
+                <h1 class="text-3xl sm:text-4xl lg:text-5xl font-bold leading-tight">
+                    Solusi <span class="gradient-accent bg-clip-text text-transparent">Digital Terbaik</span> untuk Bisnis
+                </h1>
+                <p class="text-sm sm:text-base text-gray-300 leading-relaxed max-w-xl">
+                    RomIT menyediakan layanan pengembangan aplikasi dan website custom untuk membantu bisnis Anda berkembang di era digital. Kami menghadirkan solusi teknologi yang inovatif, scalable, dan sesuai dengan kebutuhan bisnis Anda.
+                </p>
+
+                <div class="flex flex-col sm:flex-row gap-3">
+                    <a href="https://wa.me/62895614008787" target="_blank" class="gradient-accent shine-effect text-white text-sm font-bold px-6 py-3 rounded-xl shadow-2xl hover:shadow-accent/50 transform hover:scale-105 transition-all duration-300 text-center">
+                        <i class="fab fa-whatsapp mr-1.5"></i>
+                        Konsultasi Gratis
+                    </a>
+                    <a href="#layanan" class="glass-effect text-white text-sm font-bold px-6 py-3 rounded-xl hover:bg-white/20 transition-all duration-300 text-center">
+                        <i class="fas fa-laptop-code mr-1.5"></i>
+                        Lihat Layanan
+                    </a>
+                </div>
+
+                <div class="grid grid-cols-3 gap-2 sm:gap-5 pt-4">
+                    <div class="text-center">
+                        <div class="text-2xl sm:text-3xl font-bold gradient-accent bg-clip-text text-transparent">50+</div>
+                        <div class="text-[10px] sm:text-xs text-gray-400 mt-0.5">Projek Selesai</div>
                     </div>
-                    <h1 class="text-4xl lg:text-5xl font-bold leading-tight">
-                        Solusi <span class="gradient-accent bg-clip-text text-transparent">Digital Terbaik</span> untuk Bisnis
-                    </h1>
-                    <p class="text-base text-gray-300 leading-relaxed">
-                        RomIT menyediakan layanan pengembangan aplikasi dan website custom untuk membantu bisnis Anda berkembang di era digital. Kami menghadirkan solusi teknologi yang inovatif, scalable, dan sesuai dengan kebutuhan bisnis Anda.
-                    </p>
-                    <div class="flex flex-wrap gap-3">
-                        <a href="https://wa.me/62895614008787" target="_blank" class="gradient-accent shine-effect text-white text-sm font-bold px-6 py-3 rounded-xl shadow-2xl hover:shadow-accent/50 transform hover:scale-105 transition-all duration-300">
-                            <i class="fab fa-whatsapp mr-1.5"></i>
-                            Konsultasi Gratis
-                        </a>
-                        <a href="#layanan" class="glass-effect text-white text-sm font-bold px-6 py-3 rounded-xl hover:bg-white/20 transition-all duration-300">
-                            <i class="fas fa-laptop-code mr-1.5"></i>
-                            Lihat Layanan
-                        </a>
+                    <div class="text-center">
+                        <div class="text-2xl sm:text-3xl font-bold gradient-accent bg-clip-text text-transparent">5+</div>
+                        <div class="text-[10px] sm:text-xs text-gray-400 mt-0.5">Tahun Pengalaman</div>
                     </div>
-                    <div class="grid grid-cols-3 gap-5 pt-4">
-                        <div class="text-center">
-                            <div class="text-3xl font-bold gradient-accent bg-clip-text text-transparent">50+</div>
-                            <div class="text-xs text-gray-400 mt-0.5">Projek Selesai</div>
-                        </div>
-                        <div class="text-center">
-                            <div class="text-3xl font-bold gradient-accent bg-clip-text text-transparent">5+</div>
-                            <div class="text-xs text-gray-400 mt-0.5">Tahun Pengalaman</div>
-                        </div>
-                        <div class="text-center">
-                            <div class="text-3xl font-bold gradient-accent bg-clip-text text-transparent">98%</div>
-                            <div class="text-xs text-gray-400 mt-0.5">Kepuasan Klien</div>
-                        </div>
+                    <div class="text-center">
+                        <div class="text-2xl sm:text-3xl font-bold gradient-accent bg-clip-text text-transparent">98%</div>
+                        <div class="text-[10px] sm:text-xs text-gray-400 mt-0.5">Kepuasan Klien</div>
                     </div>
                 </div>
-                <div class="relative floating max-w-md mx-auto">
-                    <div class="glass-effect rounded-2xl p-6 shadow-2xl">
-                        <div class="bg-gradient-to-br from-gray-900 to-gray-800 rounded-2xl overflow-hidden shadow-2xl p-6">
-                            <div class="flex items-center space-x-3 mb-4">
-                                <div class="w-3 h-3 bg-red-500 rounded-full"></div>
-                                <div class="w-3 h-3 bg-yellow-500 rounded-full"></div>
-                                <div class="w-3 h-3 bg-green-500 rounded-full"></div>
-                                <div class="text-gray-400 text-sm ml-2">code.js</div>
-                            </div>
-                            <pre class="text-sm text-gray-300 overflow-x-auto">
-<span class="text-green-400">const</span> <span class="text-blue-400">RomIT</span> = {
-    <span class="text-yellow-400">layanan</span>: [
-        <span class="text-green-300">"Web Development"</span>,
-        <span class="text-green-300">"Mobile Apps"</span>,
-        <span class="text-green-300">"System Integration"</span>,
-        <span class="text-green-300">"Digital Marketing"</span>
-    ],
-    <span class="text-yellow-400">teknologi</span>: [
-        <span class="text-green-300">"React.js"</span>,
-        <span class="text-green-300">"Vue.js"</span>,
-        <span class="text-green-300">"Laravel"</span>,
-        <span class="text-green-300">"Flutter"</span>,
-        <span class="text-green-300">"Node.js"</span>
-    ],
-    <span class="text-yellow-400">hasil</span>: <span class="text-green-300">"Transformasi Digital Sukses"</span>
-};</pre>
+            </div>
+
+            <div class="relative floating max-w-full lg:max-w-md mx-auto w-full">
+                <div class="glass-effect rounded-2xl p-4 sm:p-6 shadow-2xl">
+                    <div class="bg-gradient-to-br from-gray-900 to-gray-800 rounded-2xl overflow-hidden shadow-2xl p-4 sm:p-6">
+                        <div class="flex items-center space-x-3 mb-4">
+                            <div class="w-2 h-2 sm:w-3 sm:h-3 bg-red-500 rounded-full"></div>
+                            <div class="w-2 h-2 sm:w-3 sm:h-3 bg-yellow-500 rounded-full"></div>
+                            <div class="w-2 h-2 sm:w-3 sm:h-3 bg-green-500 rounded-full"></div>
+                            <div class="text-gray-400 text-[10px] sm:text-sm ml-2">code.js</div>
                         </div>
+ <pre class="text-sm text-gray-300 overflow-x-auto">
+
+<span class="text-green-400">const</span> <span class="text-blue-400">RomIT</span> = {
+<span class="text-yellow-400">layanan</span>: [
+<span class="text-green-300">"Web Development"</span>,
+<span class="text-green-300">"Mobile Apps"</span>,
+<span class="text-green-300">"System Integration"</span>,
+<span class="text-green-300">"Digital Marketing"</span>
+],
+
+<span class="text-yellow-400">teknologi</span>: [
+<span class="text-green-300">"React.js"</span>,
+<span class="text-green-300">"Vue.js"</span>,
+<span class="text-green-300">"Laravel"</span>,
+<span class="text-green-300">"Flutter"</span>,
+<span class="text-green-300">"Node.js"</span>
+
+],
+<span class="text-yellow-400">hasil</span>: <span class="text-green-300">"Transformasi Digital Sukses"</span>
+};</pre>
                     </div>
                 </div>
             </div>
         </div>
-        <div class="bg-gray-50 h-12 -mb-6 rounded-t-[40px]"></div>
-    </section>
+    </div>
+    <div class="bg-gray-50 h-12 rounded-t-[40px] relative z-20"></div>
+</section>
 
     <!-- Tentang Kami Section -->
     <section id="tentang" class="py-16 bg-gray-50">
@@ -557,7 +562,7 @@ Grogol petamburan, Kelurahan Digital, Kecamatan Cyber, Kota Jakarta, Indonesia</
                             </div>
                             <div class="min-w-0 flex-1">
                                 <h4 class="font-bold text-primary mb-1 text-sm">WhatsApp</h4>
-                                <p class="text-sm text-gray-700 font-medium">+62 812-6812-3180</p>
+                                <p class="text-sm text-gray-700 font-medium">+62 895-6140-08787</p>
                                 <a href="https://wa.me/62895614008787" target="_blank" class="text-xs text-accent font-semibold hover:underline mt-1 inline-block">Konsultasi Gratis →</a>
                             </div>
                         </div>

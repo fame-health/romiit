@@ -189,7 +189,7 @@
                     </div>
                     <div>
                         <span class="text-xl font-bold text-primary">RomIT</span>
-                        <div class="text-xs text-gray-600 -mt-1 font-semibold">Pengembang Aplikasi dan Website di Indonesia</div>
+                        <div class="text-xs text-gray-600 -mt-1 ">Pengembang Aplikasi dan Website di Indonesia</div>
                     </div>
                 </div>
 
@@ -201,7 +201,7 @@
                     </a>
                     <a href="tentang-kami" class="text-gray-700 text-sm hover:text-accent transition-colors">Tentang</a>
                     <a href="hubungi-kami" class="text-gray-700 text-sm hover:text-accent transition-colors">Kontak</a>
-                    <a href="https://wa.me/6281268123180" target="_blank" class="gradient-accent text-white text-sm font-bold px-5 py-2 rounded-lg shadow-lg hover:shadow-xl transform hover:scale-105 transition-all duration-300">
+                    <a href="https://wa.me/62895614008787" target="_blank" class="gradient-accent text-white text-sm font-bold px-5 py-2 rounded-lg shadow-lg hover:shadow-xl transform hover:scale-105 transition-all duration-300">
                         <i class="fab fa-whatsapp mr-1.5"></i>
                         Konsultasi Gratis
                     </a>
@@ -217,7 +217,7 @@
                 <a href="layanan-unggulan" class="block py-2 text-sm text-primary font-semibold bg-accent/10 px-3 rounded-lg">Layanan</a>
                 <a href="tentang-kami" class="block py-2 text-sm text-gray-700 hover:bg-accent/10 px-3 rounded-lg transition">Tentang</a>
                 <a href="hubungi-kami" class="block py-2 text-sm text-gray-700 hover:bg-accent/10 px-3 rounded-lg transition">Kontak</a>
-                <a href="https://wa.me/6281268123180" target="_blank" class="block w-full gradient-accent text-sm text-white font-bold py-2 px-3 rounded-lg mt-2 text-center">
+                <a href="https://wa.me/62895614008787" target="_blank" class="block w-full gradient-accent text-sm text-white font-bold py-2 px-3 rounded-lg mt-2 text-center">
                     <i class="fab fa-whatsapp mr-1.5"></i>
                     Konsultasi Gratis
                 </a>
@@ -286,7 +286,7 @@
                         </div>
                     </div>
 
-                    <a href="https://wa.me/6281268123180" target="_blank" class="block w-full bg-primary text-white text-center py-3 rounded-xl font-semibold hover:bg-primary-dark transition">
+                    <a href="https://wa.me/62895614008787" target="_blank" class="block w-full bg-primary text-white text-center py-3 rounded-xl font-semibold hover:bg-primary-dark transition">
                         <i class="fab fa-whatsapp mr-2"></i> Konsultasi Sekarang
                     </a>
                 </div>
@@ -318,7 +318,7 @@
                         </div>
                     </div>
 
-                    <a href="https://wa.me/6281268123180" target="_blank" class="block w-full gradient-accent text-white text-center py-3 rounded-xl font-semibold hover:opacity-90 transition">
+                    <a href="https://wa.me/62895614008787" target="_blank" class="block w-full gradient-accent text-white text-center py-3 rounded-xl font-semibold hover:opacity-90 transition">
                         <i class="fab fa-whatsapp mr-2"></i> Konsultasi Sekarang
                     </a>
                 </div>
@@ -350,7 +350,7 @@
                         </div>
                     </div>
 
-                    <a href="https://wa.me/6281268123180" target="_blank" class="block w-full bg-primary text-white text-center py-3 rounded-xl font-semibold hover:bg-primary-dark transition">
+                    <a href="https://wa.me/62895614008787" target="_blank" class="block w-full bg-primary text-white text-center py-3 rounded-xl font-semibold hover:bg-primary-dark transition">
                         <i class="fab fa-whatsapp mr-2"></i> Konsultasi Sekarang
                     </a>
                 </div>
@@ -382,7 +382,7 @@
                         </div>
                     </div>
 
-                    <a href="https://wa.me/6281268123180" target="_blank" class="block w-full gradient-accent text-white text-center py-3 rounded-xl font-semibold hover:opacity-90 transition">
+                    <a href="https://wa.me/62895614008787" target="_blank" class="block w-full gradient-accent text-white text-center py-3 rounded-xl font-semibold hover:opacity-90 transition">
                         <i class="fab fa-whatsapp mr-2"></i> Konsultasi Sekarang
                     </a>
                 </div>
@@ -414,7 +414,7 @@
                         </div>
                     </div>
 
-                    <a href="https://wa.me/6281268123180" target="_blank" class="block w-full bg-primary text-white text-center py-3 rounded-xl font-semibold hover:bg-primary-dark transition">
+                    <a href="https://wa.me/62895614008787" target="_blank" class="block w-full bg-primary text-white text-center py-3 rounded-xl font-semibold hover:bg-primary-dark transition">
                         <i class="fab fa-whatsapp mr-2"></i> Konsultasi Sekarang
                     </a>
                 </div>
@@ -446,7 +446,7 @@
                         </div>
                     </div>
 
-                    <a href="https://wa.me/6281268123180" target="_blank" class="block w-full gradient-accent text-white text-center py-3 rounded-xl font-semibold hover:opacity-90 transition">
+                    <a href="https://wa.me/62895614008787" target="_blank" class="block w-full gradient-accent text-white text-center py-3 rounded-xl font-semibold hover:opacity-90 transition">
                         <i class="fab fa-whatsapp mr-2"></i> Konsultasi Sekarang
                     </a>
                 </div>
@@ -560,7 +560,7 @@
                 Diskusikan ide dan kebutuhan digital bisnis Anda dengan tim expert kami. Konsultasi GRATIS tanpa biaya.
             </p>
             <div class="flex flex-col sm:flex-row gap-4 justify-center">
-                <a href="https://wa.me/6281268123180" target="_blank" class="gradient-accent text-white font-bold px-8 py-4 rounded-xl shadow-xl hover:shadow-2xl transform hover:scale-105 transition-all duration-300">
+                <a href="https://wa.me/62895614008787" target="_blank" class="gradient-accent text-white font-bold px-8 py-4 rounded-xl shadow-xl hover:shadow-2xl transform hover:scale-105 transition-all duration-300">
                     <i class="fab fa-whatsapp mr-2"></i> Hubungi via WhatsApp
                 </a>
                 <a href="hubungi-kami" class="glass-effect text-white font-bold px-8 py-4 rounded-xl hover:bg-white/20 transition">

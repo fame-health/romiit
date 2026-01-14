@@ -179,7 +179,7 @@
                     </div>
                     <div>
                         <span class="text-xl font-bold text-primary">RomIT</span>
-                        <div class="text-xs text-gray-600 -mt-1 font-semibold">Pengembang Aplikasi dan Website di Indonesia</div>
+                        <div class="text-xs text-gray-600 -mt-1 ">Pengembang Aplikasi dan Website di Indonesia</div>
                     </div>
                 </div>
 
@@ -191,7 +191,7 @@
                         <span class="absolute bottom-0 left-0 w-full h-0.5 bg-accent"></span>
                     </a>
                     <a href="hubungi-kami" class="text-gray-700 text-sm hover:text-accent transition-colors">Kontak</a>
-                    <a href="https://wa.me/6281268123180" target="_blank" class="gradient-accent text-white text-sm font-bold px-5 py-2 rounded-lg shadow-lg hover:shadow-xl transform hover:scale-105 transition-all duration-300">
+                    <a href="https://wa.me/62895614008787" target="_blank" class="gradient-accent text-white text-sm font-bold px-5 py-2 rounded-lg shadow-lg hover:shadow-xl transform hover:scale-105 transition-all duration-300">
                         <i class="fab fa-whatsapp mr-1.5"></i>
                         Konsultasi Gratis
                     </a>
@@ -207,7 +207,7 @@
                 <a href="layanan-unggulan" class="block py-2 text-sm text-gray-700 hover:bg-accent/10 px-3 rounded-lg transition">Layanan</a>
                 <a href="tentang-kami" class="block py-2 text-sm text-primary font-semibold bg-accent/10 px-3 rounded-lg">Tentang</a>
                 <a href="hubungi-kami" class="block py-2 text-sm text-gray-700 hover:bg-accent/10 px-3 rounded-lg transition">Kontak</a>
-                <a href="https://wa.me/6281268123180" target="_blank" class="block w-full gradient-accent text-sm text-white font-bold py-2 px-3 rounded-lg mt-2 text-center">
+                <a href="https://wa.me/62895614008787" target="_blank" class="block w-full gradient-accent text-sm text-white font-bold py-2 px-3 rounded-lg mt-2 text-center">
                     <i class="fab fa-whatsapp mr-1.5"></i>
                     Konsultasi Gratis
                 </a>
